@@ -1,0 +1,1 @@
+# Folder to output the generated anki deck
